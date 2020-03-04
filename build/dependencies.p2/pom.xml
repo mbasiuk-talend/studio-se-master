@@ -12,7 +12,7 @@
         <fasterxml.jackson.version>2.10.1</fasterxml.jackson.version>
         <!-- jackson dataformat and jaxb should use version 2.9.10 to make studio compatible with bonita -->
         <fasterxml.jackson.bonita.compatible.version>2.9.10</fasterxml.jackson.bonita.compatible.version>
-        <daikon.version>0.31.11-SNAPSHOT</daikon.version>
+        <daikon.version>0.31.10</daikon.version>
     </properties>
 
     <distributionManagement>
